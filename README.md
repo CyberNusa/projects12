@@ -1,0 +1,2 @@
+# proyek12
+projecktTermux
