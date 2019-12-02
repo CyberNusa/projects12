@@ -1,2 +1,2 @@
-# proyek12
+# projeck
 projecktTermux
